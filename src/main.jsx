@@ -11,7 +11,6 @@ var Main = React.createClass({
                 <h1>React Gulp Template</h1>
                 <p>This is a dummy app to display the power of gulp</p>
                 <p>The files in <code>./build/js/src/</code> are the compiled jsx files</p>
-                <p>Optimized images are stored in <code>./build/images</code></p>
                 <p>Built less is stored in <code>./build/css</code></p>
                 <p>Ideally, to deploy an app using this template you would simply copy the index.html file and the build folder to the server</p>
             </div>
